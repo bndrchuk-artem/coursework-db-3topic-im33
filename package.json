@@ -2,8 +2,8 @@
   "name": "dis-edu",
   "version": "2.1.0",
   "main": "index.js",
-  "description": "Databases course work template",
-  "repository": "https://github.com/taoriyll/db-3topic-im33.git",
+  "description": "Databases course work",
+  "repository": "https://github.com/bndrchuk-artem/coursework-db-3topic-im33.git",
   "author": "Andrey Boldak <boldak.andrey@gmail.com>",
   "license": "ECL 2.0",
   "scripts": {
