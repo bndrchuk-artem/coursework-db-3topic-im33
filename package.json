@@ -3,7 +3,7 @@
   "version": "2.1.0",
   "main": "index.js",
   "description": "Databases course work",
-  "repository": "https://github.com/bndrchuk-artem/coursework-db-3topic-im33.git",
+  "repository": "https://github.com/bndrchuk-artem/coursework-db-3topic-im33",
   "author": "Andrey Boldak <boldak.andrey@gmail.com>",
   "license": "ECL 2.0",
   "scripts": {
