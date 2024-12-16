@@ -1,4 +1,4 @@
 # Курсова робота з дисципліни "Бази даних". </br> Тема: "Система аналізу медіа-контенту"
 
 Виконав студент групи ІМ-33 Бондарчук Артем </br>
-Telegram: [@bndrchuk_artem](t.me/bndrchuk_artem)
+Telegram: [@bndrchuk_artem](https://t.me/bndrchuk_artem)
